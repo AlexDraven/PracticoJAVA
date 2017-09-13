@@ -1,0 +1,5 @@
+package practico;
+
+public enum Genero {
+	DRAMA,COMEDIA,CIENCIA_FICCION,TERROR,ANIMACION,SIN_DEFINIR
+}
